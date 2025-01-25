@@ -2,8 +2,7 @@
 
 ![image](demo.png)
 
-### Steps
-
+### Step 1
 Update the DB.toml file with your credentials
 ```toml
 dbname = "your_database_name"
