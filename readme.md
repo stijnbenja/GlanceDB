@@ -1,4 +1,5 @@
 # GlanceDB - View your database tables intuitively
+A simple streamlit interface for viewing all the tables in your PostgreSQL database. Nothing more, nothing less.
 
 ![image](demo.png)
 
