@@ -6,7 +6,7 @@ from functions import get_table_names, table_name_to_df
 
 
 # Database operations
-connection = connect_to_database(credentials_file="local.toml")
+connection = connect_to_database(credentials_file="DB.toml")
 cursor = connection.cursor()
 table_names = get_table_names(cursor)
 
