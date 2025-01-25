@@ -4,8 +4,8 @@
 
 ### Steps
 
+Update the DB.toml file with your credentials
 ```toml
-[database]
 dbname = "your_database_name"
 user = "your_username"
 password = "your_password"
