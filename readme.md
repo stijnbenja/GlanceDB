@@ -1,5 +1,4 @@
-# GlanceDB
+# GlanceDB - View your database tables intuitively
 
-### View your database tables intuitively
 
 ![image](demo.png)
